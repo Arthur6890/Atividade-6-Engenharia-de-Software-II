@@ -1,0 +1,17 @@
+{
+  "name": "atividade-6-engenharia-de-software-ii",
+  "version": "1.0.0",
+  "description": "This is a simple project which tests any given array with some pre defined functions. This code was made on the Software Engineering II class in order to learn and pratice about CD/CI pratices using github actions.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Arthur Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
