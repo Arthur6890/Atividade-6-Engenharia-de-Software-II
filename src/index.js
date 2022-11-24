@@ -16,7 +16,7 @@ class TestArray {
     }
   
     VerifyIsArrayIsMadeByNumbers() {
-        return this.ArrayToBeTested.every(index => typeof(index) == "number")        
+        return this.ArrayToBeTested.every(index => typeof(index) == "number");    
     }
   
     LastItemOfArray() {
